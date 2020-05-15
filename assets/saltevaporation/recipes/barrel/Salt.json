@@ -1,0 +1,82 @@
+[
+	{
+		"code": "evaporation",
+		"sealHours": 840,
+		"ingredients": [
+			{
+				"type": "item",
+				"code": "game:waterportion",
+				"quantity": 50
+			}
+		],
+		"output": {
+			"type": "item",
+			"code": "game:salt",
+			"stackSize": 5
+		}
+	},
+	{
+		"code": "evaporation",
+		"sealHours": 672,
+		"ingredients": [
+			{
+				"type": "item",
+				"code": "game:waterportion",
+				"quantity": 40
+			}
+		],
+		"output": {
+			"type": "item",
+			"code": "game:salt",
+			"stackSize": 4
+		}
+	},
+	{
+		"code": "evaporation",
+		"sealHours": 504,
+		"ingredients": [
+			{
+				"type": "item",
+				"code": "game:waterportion",
+				"quantity": 30
+			}
+		],
+		"output": {
+			"type": "item",
+			"code": "game:salt",
+			"stackSize": 3
+		}
+	},
+	{
+		"code": "evaporation",
+		"sealHours": 336,
+		"ingredients": [
+			{
+				"type": "item",
+				"code": "game:waterportion",
+				"quantity": 20
+			}
+		],
+		"output": {
+			"type": "item",
+			"code": "game:salt",
+			"stackSize": 2
+		}
+	},
+	{
+		"code": "evaporation",
+		"sealHours": 168,
+		"ingredients": [
+			{
+				"type": "item",
+				"code": "game:waterportion",
+				"quantity": 10
+			}
+		],
+		"output": {
+			"type": "item",
+			"code": "game:salt",
+			"stackSize": 1
+		}
+	}
+]

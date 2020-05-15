@@ -1,0 +1,13 @@
+{
+  "type": "content",
+  "modid": "saltevaporation",
+  "name": "Salt Evaportation",
+  "description" : "Allows salt creation from water",
+  "authors": ["JackPS9"],
+  "version": "1.0",
+  "dependencies": { 
+	"game": "",
+	"survival": ""
+  },
+  "website": "http://phentrixgames.com"
+}
